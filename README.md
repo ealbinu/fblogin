@@ -1,4 +1,4 @@
 fblogin
 =======
 
-Loging a facebook con jquery
+Facebook Login with jAquery
